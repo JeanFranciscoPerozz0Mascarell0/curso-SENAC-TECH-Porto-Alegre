@@ -1,0 +1,27 @@
+## Solicitações criadas (Grupo 2-Raul, Gabi e Yuri):
+
+1. Criar um código que calcule o IMC de 5 pessoas.
+- Considere altura e peso;
+- Use arrays para armazenar o nome, peso e altura;
+- Retorne o nome da pessoa, o valor do IMC, informando se o individuo está abaixo, acima ou no IMC ideal;
+
+ 2.  Crie um sistema com login e senha, que ao logar o aluno verifica suas notas de três trimestres diferentes
+
+- As notas já estarão no sistema(pré-definido) juntamente ao login do aluno fictício;
+- Ele deve ter a opção de verificar qual trimestre;
+- Serão quatro notas por trimestre;
+- Calcular a média das notas por trimestre e retornar se o aluno passou ou não (média acima de 7=aprovado | abaixo de 7=reprovado);
+
+Objetivo: O programa deve retornar as notas, a média informando se o aluno foi aprovado ou não (no trimestre escolhido/selecionado)
+
+ 3. Programa que calcule seu rendimento em 3 diferentes tipos de investimento:
+
+O usuário deve selecionar o quanto quer investir inicialmente, por quanto tempo e escolher o tipo de investimento;
+
+1. Investimento do GUGU(10%a.a);
+2. Al-mosso imvestimentos 🤡🤡🤡 (25%a.a);
+3. Amarelinha investimentos(4%a.a);
+
+O programa deve retornar o valor investido, o tempo de investimento e o lucro potencial.
+
+*Lembre de calcular o valor ao ano, mas proporcional ao tempo selecionado pelo usuário.
