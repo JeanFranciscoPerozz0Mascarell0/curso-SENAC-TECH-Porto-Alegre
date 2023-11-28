@@ -10,3 +10,9 @@ class Peixes(Animais):
         print(f"Esse animal é um {tipo_animal}!")
         super().exibe_informacoes()
         print(f"ALIMENTO: {self.alimento}")
+
+    def adiciona_peixe(self):
+        peixe = []
+        for animal in range(0, len(peixe)):
+            peixe.append({'nome': self.nome, 'comprimento': self.comprimento, 'tamanho': self.tamanho, 'nº de patas': self.patas, 'cor': self.cor, 'ambiente': self.ambiente, 'alimento': self.alimento})    
+        return peixe

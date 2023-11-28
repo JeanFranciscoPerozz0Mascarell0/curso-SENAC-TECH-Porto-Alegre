@@ -1,0 +1,7 @@
+https://www.javatpoint.com/python-tkinter
+
+https://tkdocs.com/
+
+https://docs.python.org/pt-br/3/library/tkinter.html
+
+https://docs.awesomeapi.com.br/api-de-moedas

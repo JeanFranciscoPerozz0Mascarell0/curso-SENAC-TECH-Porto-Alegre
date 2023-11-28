@@ -10,3 +10,9 @@ class Mamiferos(Animais):
         print(f"Esse animal é um {tipo_animal}!")
         super().exibe_informacoes()
         print(f"ALIMENTO: {self.alimento}")
+
+    def adiciona_mamifero(self):
+        mamiferos = []
+        for animal in range(0, len(mamiferos)):
+            mamiferos.append({'nome': self.nome, 'comprimento': self.comprimento, 'tamanho': self.tamanho, 'nº de patas': self.patas, 'cor': self.cor, 'ambiente': self.ambiente, 'alimento': self.alimento})    
+        return mamiferos

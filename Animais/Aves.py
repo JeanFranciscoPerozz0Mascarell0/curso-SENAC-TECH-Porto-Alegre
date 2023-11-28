@@ -10,3 +10,10 @@ class Aves(Animais):
         print(f"Esse animal é um {tipo_animal}!")
         super().exibe_informacoes()
         print(f"ALIMENTO: {self.alimento}")
+    
+    # def adiciona_na_lista(self):
+    def adiciona_ave(self):
+        ave = []
+        for animal in range(0, len(ave)):
+            ave.append({'nome': self.nome, 'comprimento': self.comprimento, 'tamanho': self.tamanho, 'nº de patas': self.patas, 'cor': self.cor, 'ambiente': self.ambiente, 'alimento': self.alimento})    
+        return ave

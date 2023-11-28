@@ -15,3 +15,5 @@ class Animais():
         print(f"PATAS: {self.patas}")
         print(f"COR: {self.cor}")
         print(f"AMBIENTE: {self.ambiente}")
+    
+
